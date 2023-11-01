@@ -1,0 +1,10 @@
+Countries Visited: 3
+States Visited: 3
+Randomly Generated Flags: Lebanon, Argentina, Somalia, Samoa, Tonga
+User Response Flags: , , , , 
+Randomly Generated Cities: Orlando, Chicago, Los Angeles, Dallas, Cleveland
+User Response Cities: 
+Randomly Generated Countries: United States, Panama, China, United Kingdom, Nigeria, India
+User Response Countries: 
+How often seeks information: 3
+
